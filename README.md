@@ -1,2 +1,2 @@
 # Samples
-This repository contains sample notebooks that show how Python is applied to solve problems.
+This repository contains sample notebooks that show how I apply Python to solve problems.
